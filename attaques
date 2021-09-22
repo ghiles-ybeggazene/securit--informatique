@@ -1,0 +1,14 @@
+
+XSS : une attaque Cross-Site Scripting (XSS 4
+) consiste en l’injection de données dans une page
+web dans le but de provoquer un comportement particulier du navigateur qui interprète cette
+page. Les données injectées ont la forme de langages interprétés par le navigateur tels que
+JavaScript ou HTML. Une attaque XSS cible les utilisateurs du site et vise en général à récupérer
+des secrets émis ou reçus par ceux-ci (sessions, coordonnées, mots de passe, informations bancaires, etc.), ou bien à effectuer des actions en leur nom ;
+
+
+
+CSRF : Cross-Site Request Forgery (CSRF 5
+) est une classe d’attaques qui force un utilisateur à
+exécuter, à son insu, des actions privilégiées sur une application tierce sur laquelle il est authentifié. Ce type d’attaques a lieu lors de la navigation sur un site piégé qui émet des requêtes
+vers un site de confiance, mais vulnérable au CSRF ;
